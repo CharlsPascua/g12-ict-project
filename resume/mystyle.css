@@ -1,0 +1,51 @@
+.pnk{
+    background-color: rgb(226, 178, 187);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.name{
+    border-style:outset;
+    border-width: medium;
+    margin-right: 50%;
+}
+
+    
+
+body{
+    background-image: linear-gradient(to left,#c5c5ff, #efdeff );
+    
+}
+
+.qua{
+    background-color: rgb(132, 216, 231);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.laytblu{
+    background-color: rgb(174, 223, 241);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.mediyumturkoys{
+    background-color: rgb(140, 224, 222);
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.box1{
+    border-style: outset;
+    border-width: large;
+    margin-right: 100px;
+}
+
+.box1{
+    border-style: outset;
+    border-width: large;
+    margin-right: 100px;
+}
+
+
+
